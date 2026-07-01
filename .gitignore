@@ -1,0 +1,27 @@
+# Build artifacts & executables
+*.exe
+*.o
+*.obj
+wirereaper_linux
+wirereaper_win
+*.a
+*.lib
+*.dll
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Miscellaneous
+*.log
+*.tmp
+temp/
+build/
+bin/
